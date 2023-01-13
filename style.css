@@ -127,9 +127,9 @@ main > h2 {
 }
 main > p {
     font-family: var(--fonte-padrao);
-    margin: 10px;
+    margin: 8px;
     text-indent: 20px;
-    line-height: 1.5em;
+    line-height: 1.3em;
 }
 main img{
     width: 100%;
