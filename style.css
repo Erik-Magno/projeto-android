@@ -174,8 +174,8 @@ aside > p {
     padding: 10px;
 }
 aside > ul {
-    margin-left: 10px;
-    list-style: none;
+    list-style-position: inside;
+    list-style-type: '\2714\00A0\00A0';
     columns: 2;
 }
 
